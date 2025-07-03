@@ -2161,6 +2161,7 @@
         ]
       },
       "properties": {
+        "type": "route",
         "route_id": "22",
         "route_short_name": "22",
         "shape_id": "++++22+++52"
@@ -4202,6 +4203,7 @@
         ]
       },
       "properties": {
+        "type": "route",
         "route_id": "22",
         "route_short_name": "22",
         "shape_id": "++++22+++62"
@@ -6095,9 +6097,1510 @@
         ]
       },
       "properties": {
+        "type": "route",
         "route_id": "22",
         "route_short_name": "22",
         "shape_id": "++++22++161"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.822535,
+          41.135922
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03478104",
+        "stop_name": "S. Girolamo-Don Cesare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.819625,
+          41.136352
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03478105",
+        "stop_name": "S. Girolamo-Puccini"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.816365,
+          41.136922
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03478106",
+        "stop_name": "Girolamo-Tomasicchio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.886985,
+          41.104043
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06009005",
+        "stop_name": "Caserma Magrone"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.886075,
+          41.105953
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06009006",
+        "stop_name": "Amendola-cavalcavia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.885255,
+          41.107703
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06009007",
+        "stop_name": "Amendola-Omodeo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.883605,
+          41.110473
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06009008",
+        "stop_name": "Amendola (Campus)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.881995,
+          41.112503
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06009009",
+        "stop_name": "Amendola-C.Ulpiani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.880075,
+          41.114853
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06009010",
+        "stop_name": "Amendola-Cirillo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.882015,
+          41.112453
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06009101",
+        "stop_name": "Amendola-C.Ulpiani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.883825,
+          41.110113
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06009102",
+        "stop_name": "Amendola (Campus)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.885095,
+          41.107973
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06009103",
+        "stop_name": "Amendola-Omodeo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.886,
+          41.106
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06009104",
+        "stop_name": "Amendola-Petrera"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8871,
+          41.1037
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06009105",
+        "stop_name": "Amendola-Eiunaudi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.893065,
+          41.091033
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06009110",
+        "stop_name": "."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.894665,
+          41.088123
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06010001",
+        "stop_name": "Caduri del Lavoro I"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8947,
+          41.0879
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06010101",
+        "stop_name": "Caduti del Lavoro II"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.884415,
+          41.093743
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06045001",
+        "stop_name": "Conte Giusso-Fanelli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.886325,
+          41.093823
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06045002",
+        "stop_name": "Conte Giusso-Bovio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.889605,
+          41.093853
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06045003",
+        "stop_name": "Conte Giusso-Tupputi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.889345,
+          41.093903
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06045101",
+        "stop_name": "Conte Giusso-Tupputi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.886205,
+          41.093853
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06045102",
+        "stop_name": "Conte  Giusso-Bovio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.884305,
+          41.093763
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06045103",
+        "stop_name": "Conte Giusso-Fanelli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.897605,
+          41.089343
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06061001",
+        "stop_name": "Caduti Lavoro III"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.899575,
+          41.090103
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06061002",
+        "stop_name": "Caduti Lavoro V"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.899495,
+          41.090103
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06061101",
+        "stop_name": "Caduti Lavoro IV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.897385,
+          41.089313
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06061102",
+        "stop_name": "Caduti  Lavoro VI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.880475,
+          41.101533
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06235004",
+        "stop_name": "Einaudi-Fanelli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.882455,
+          41.102073
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06235005",
+        "stop_name": "Einaudi-Turati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.885325,
+          41.102793
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06235006",
+        "stop_name": "Einaudi-Tridente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.885395,
+          41.102833
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06235101",
+        "stop_name": "Giulio Cesare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.882175,
+          41.102033
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06235102",
+        "stop_name": "Einaudi-Fortunato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.880385,
+          41.101533
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06235103",
+        "stop_name": "Einaudi-Fanelli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.882075,
+          41.096993
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06249004",
+        "stop_name": "Fanelli(caserma CC)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.880325,
+          41.099713
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06249005",
+        "stop_name": "Fanelli-str. Barone"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.880035,
+          41.100233
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06249103",
+        "stop_name": "Fanelli-str. Barone"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.882,
+          41.0971
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06249104",
+        "stop_name": "Fanelli (C.Vitrani)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.882645,
+          41.095893
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06249105",
+        "stop_name": "Fanelli(Caserma CC)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.887235,
+          41.090443
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06275001",
+        "stop_name": "Lojacono(Showville)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8783,
+          41.1157
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06306101",
+        "stop_name": "Lattanzio-Nizza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.878945,
+          41.114903
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06306102",
+        "stop_name": "Lattanzio - Di Savoia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8804,
+          41.1138
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06439101",
+        "stop_name": "Postiglione-Amendola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8991,
+          41.0916
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06505C00",
+        "stop_name": "Torre di Mizzo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.890225,
+          41.093653
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06519001",
+        "stop_name": "Tupputi-Giusso"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.889845,
+          41.091213
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06519002",
+        "stop_name": "Tupputi (VV.F.)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.877295,
+          41.117533
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "07075101",
+        "stop_name": "Capruzzi-Mola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.874235,
+          41.119053
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "07324002",
+        "stop_name": "Piazza l. di savoia, chiesa s. antonio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.873925,
+          41.119643
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "07324101",
+        "stop_name": "L. di Savoia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.843575,
+          41.136622
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08003001",
+        "stop_name": "Adriatico (CTO)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.840695,
+          41.137472
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08003002",
+        "stop_name": "Adriatico-Starita"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.843195,
+          41.136772
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08003101",
+        "stop_name": "Adriatico-Starita"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.840855,
+          41.137452
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08003102",
+        "stop_name": "Adriatico-Starita"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8376,
+          41.1334
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08229C00",
+        "stop_name": "Piscine Comunali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.834945,
+          41.136182
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08276001",
+        "stop_name": "Giordano-Verdi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.838015,
+          41.137722
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08276002",
+        "stop_name": "Pinto(Fiera)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.838185,
+          41.137742
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08276102",
+        "stop_name": "Fiera fronte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.811555,
+          41.136382
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08380101",
+        "stop_name": "Napoli-Cimarosa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.864205,
+          41.124043
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08441101",
+        "stop_name": "Q.Sella-Calefati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.864505,
+          41.121513
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08441102",
+        "stop_name": "Q. Sella-Dante"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.864655,
+          41.119853
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08441104",
+        "stop_name": "Q.Sella-Crisanzio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8088,
+          41.1383
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08454001",
+        "stop_name": "Romito (SS16)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.810715,
+          41.137962
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08454102",
+        "stop_name": "Romito-Perosi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.816895,
+          41.136792
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08478001",
+        "stop_name": "S. Girolamo-Fallacara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.819395,
+          41.136372
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08478002",
+        "stop_name": "San Girolamo-Costa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.822185,
+          41.135942
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08478003",
+        "stop_name": "San Girolamo-Corrado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.813895,
+          41.137302
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08478004",
+        "stop_name": "San Girolamo-C.Nicola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.813505,
+          41.137372
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08478103",
+        "stop_name": "San Girolamo-Cimarosa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.844405,
+          41.135462
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08493001",
+        "stop_name": "Starita (CUS)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.844275,
+          41.134922
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08493101",
+        "stop_name": "Starita (CTO)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.825445,
+          41.135552
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08546001",
+        "stop_name": "San Girolamo-Cilea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.829015,
+          41.135252
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08546003",
+        "stop_name": "lido trampolino"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.831255,
+          41.134952
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08546004",
+        "stop_name": "V. Westerhout(Pineta)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.831335,
+          41.134962
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08546102",
+        "stop_name": "V.Westerhout(Pineta)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.828835,
+          41.135302
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08546103",
+        "stop_name": "lido trampolino"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.826665,
+          41.135522
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08546104",
+        "stop_name": "V.Westerhout-Casavola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.835095,
+          41.135142
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08555001",
+        "stop_name": "Verdi (Fiera)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.834,
+          41.1356
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08555101",
+        "stop_name": "Verdi(S.Francesco)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.844545,
+          41.133752
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08561001",
+        "stop_name": "V.Veneto (AQP)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.857435,
+          41.128093
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08561003",
+        "stop_name": "Ist. d'Arte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.863285,
+          41.128563
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08561004",
+        "stop_name": "Anagrafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.850575,
+          41.129872
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08561006",
+        "stop_name": "V.Veneto (GdF)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.855665,
+          41.128063
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08561007",
+        "stop_name": "Park Veneto fronte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.858635,
+          41.128173
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08561101",
+        "stop_name": "GdF fronte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.852695,
+          41.128693
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08561102",
+        "stop_name": "V.Veneto-Brigata"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8446,
+          41.1336
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08561103",
+        "stop_name": "AQP fronte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.850585,
+          41.129912
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08561106",
+        "stop_name": "GdF fronte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.855795,
+          41.128103
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08561107",
+        "stop_name": "Park V.Veneto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.852395,
+          41.128823
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08561C01",
+        "stop_name": "P&R V.Veneto (B)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.869005,
+          41.121113
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09015001",
+        "stop_name": "Ateneo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.868805,
+          41.123703
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09015002",
+        "stop_name": "da Bari-Calefati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.866275,
+          41.118463
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09291001",
+        "stop_name": "Italia-De Rossi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.866815,
+          41.126263
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09351001",
+        "stop_name": "Prefettura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.865205,
+          41.128183
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09351002",
+        "stop_name": "Giardini d'Aragona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.866,
+          41.1268
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09351102",
+        "stop_name": "Massari (B)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.871785,
+          41.119263
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09357001",
+        "stop_name": "Melo-Caduti via Fani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.871715,
+          41.119743
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09357101",
+        "stop_name": "Melo-Petroni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8696,
+          41.1181
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09369001",
+        "stop_name": "Bari Centrale(C)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.869465,
+          41.118683
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09369101",
+        "stop_name": "Bari Centrale(D)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.867515,
+          41.125213
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09435102",
+        "stop_name": "Teatro Piccinni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.863565,
+          41.128633
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09561101",
+        "stop_name": "Anagrafe fronte"
       }
     }
   ]

@@ -717,9 +717,280 @@
         ]
       },
       "properties": {
+        "type": "route",
         "route_id": "A",
         "route_short_name": "A",
         "shape_id": "+++++A+++20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.857435,
+          41.128093
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08561003",
+        "stop_name": "Ist. d'Arte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.863285,
+          41.128563
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08561004",
+        "stop_name": "Anagrafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.855665,
+          41.128063
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08561007",
+        "stop_name": "Park Veneto fronte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.858635,
+          41.128173
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08561101",
+        "stop_name": "GdF fronte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.855795,
+          41.128103
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08561107",
+        "stop_name": "Park V.Veneto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.852325,
+          41.128863
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08561C02",
+        "stop_name": "P&R V.Veneto (A)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.867775,
+          41.131403
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09217001",
+        "stop_name": "Santa Chiara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.868795,
+          41.132393
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09217002",
+        "stop_name": "Porto fronte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.865345,
+          41.128883
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09217003",
+        "stop_name": "Castello Svevo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.871515,
+          41.131933
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09295101",
+        "stop_name": "S.Scolastica"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.871245,
+          41.130863
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09295102",
+        "stop_name": "Arco S. Nicola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.872905,
+          41.129033
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09295103",
+        "stop_name": "Fortino"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.872495,
+          41.127143
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09295104",
+        "stop_name": "Ferrarese"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.866815,
+          41.126263
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09351001",
+        "stop_name": "Prefettura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.865205,
+          41.128183
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09351002",
+        "stop_name": "Giardini d'Aragona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.870875,
+          41.126143
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09556101",
+        "stop_name": "V.Emanuele (giardino)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.868865,
+          41.126023
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09556102",
+        "stop_name": "Palazzo Economia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.863565,
+          41.128633
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09561101",
+        "stop_name": "Anagrafe fronte"
       }
     }
   ]

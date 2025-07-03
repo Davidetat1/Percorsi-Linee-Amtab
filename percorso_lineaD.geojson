@@ -1029,9 +1029,385 @@
         ]
       },
       "properties": {
+        "type": "route",
         "route_id": "D",
         "route_short_name": "D",
         "shape_id": "+++++D+D010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.857595,
+          41.095743
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03033001",
+        "stop_name": "Bartolo (M.Polo)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.855565,
+          41.097603
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03051003",
+        "stop_name": "Rosalba-D' Aquino"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.867565,
+          41.116903
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03075003",
+        "stop_name": "Capruzzi (portici)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.864495,
+          41.098683
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03168102",
+        "stop_name": "Laurentis-st. caffè"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.864335,
+          41.096633
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03168103",
+        "stop_name": "Laurentis-Dioguardi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.856165,
+          41.096143
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03198101",
+        "stop_name": "Dell'Andro-Bartolo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.862195,
+          41.096383
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03227001",
+        "stop_name": "Dioguardi (tribunale)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.861815,
+          41.094693
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03232101",
+        "stop_name": "Don Guanella"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.868705,
+          41.115783
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03285101",
+        "stop_name": "Petroni-Capruzzi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8685,
+          41.1126
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03285102",
+        "stop_name": "Petroni 41D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.867765,
+          41.109533
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03285103",
+        "stop_name": "Petroni-Montegrappa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.867725,
+          41.107553
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03285104",
+        "stop_name": "Petroni-Giov. XXIII"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.867665,
+          41.106263
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03285105",
+        "stop_name": "Petroni(mercato)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.867095,
+          41.103813
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03285106",
+        "stop_name": "Petroni-Urbano VI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.867175,
+          41.101523
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03285107",
+        "stop_name": "Petroni-Kennedy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.867335,
+          41.100233
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03285108",
+        "stop_name": "Petroni-L.King"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.859205,
+          41.100993
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03299001",
+        "stop_name": "Kennedy-L.King"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.859935,
+          41.093193
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03321103",
+        "stop_name": "Lucarelli (Portici)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.859025,
+          41.100553
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03348001",
+        "stop_name": "King-Che Guevara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.860115,
+          41.108293
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03393001",
+        "stop_name": "Flacco-De Ferraris"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.861805,
+          41.110643
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03393002",
+        "stop_name": "Flacco-Zuccaro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.859505,
+          41.102803
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03411001",
+        "stop_name": "Pio XII (farmacia)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.859805,
+          41.105523
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03411002",
+        "stop_name": "Pio XII-Pansini"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.863405,
+          41.113173
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03471001",
+        "stop_name": "Salandra I"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.864245,
+          41.115123
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03471002",
+        "stop_name": "Salandra II"
       }
     }
   ]

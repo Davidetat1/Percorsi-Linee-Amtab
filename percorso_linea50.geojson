@@ -761,9 +761,295 @@
         ]
       },
       "properties": {
+        "type": "route",
         "route_id": "50",
         "route_short_name": "50",
         "shape_id": "++++5050010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.864205,
+          41.124043
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08441101",
+        "stop_name": "Q.Sella-Calefati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.864505,
+          41.121513
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08441102",
+        "stop_name": "Q. Sella-Dante"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.864655,
+          41.119853
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08441104",
+        "stop_name": "Q.Sella-Crisanzio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.869005,
+          41.121113
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09015001",
+        "stop_name": "Ateneo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.868805,
+          41.123703
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09015002",
+        "stop_name": "da Bari-Calefati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.867775,
+          41.131403
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09217001",
+        "stop_name": "Santa Chiara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.868795,
+          41.132393
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09217002",
+        "stop_name": "Porto fronte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.865345,
+          41.128883
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09217003",
+        "stop_name": "Castello Svevo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.868675,
+          41.132343
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09217101",
+        "stop_name": "De Tullio (Porto)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.867705,
+          41.131333
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09217102",
+        "stop_name": "S.Chiara fronte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.868135,
+          41.135513
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09289102",
+        "stop_name": "Terminal Crociere"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.868035,
+          41.132563
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09289103",
+        "stop_name": "Stazione Marittima"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8693,
+          41.1334
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09289C01",
+        "stop_name": "Varco Dogana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.866275,
+          41.118463
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09291001",
+        "stop_name": "Italia-De Rossi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.866815,
+          41.126263
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09351001",
+        "stop_name": "Prefettura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.865205,
+          41.128183
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09351002",
+        "stop_name": "Giardini d'Aragona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.866,
+          41.1268
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09351102",
+        "stop_name": "Massari (B)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8695,
+          41.1183
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09369C00",
+        "stop_name": "Bari Centrale (B)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.867515,
+          41.125213
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09435102",
+        "stop_name": "Teatro Piccinni"
       }
     }
   ]

@@ -1681,6 +1681,7 @@
         ]
       },
       "properties": {
+        "type": "route",
         "route_id": "09",
         "route_short_name": "09",
         "shape_id": "++++09++012"
@@ -3366,9 +3367,1360 @@
         ]
       },
       "properties": {
+        "type": "route",
         "route_id": "09",
         "route_short_name": "09",
         "shape_id": "++++09++041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.861635,
+          41.113593
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03237102",
+        "stop_name": "Ennio (chiesa)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.862075,
+          41.112773
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03237C00",
+        "stop_name": "Policlinico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.861575,
+          41.101213
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03298001",
+        "stop_name": "J.F. Kennedy VI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.865525,
+          41.101013
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03298002",
+        "stop_name": "J.F. Kennedy  IV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.869105,
+          41.100803
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03298003",
+        "stop_name": "J.F. Kennedy II"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.869205,
+          41.100823
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03298101",
+        "stop_name": "J.F. Kennedy I"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.865345,
+          41.101053
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03298102",
+        "stop_name": "J.F. Kennedy III"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.861475,
+          41.101253
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03298103",
+        "stop_name": "J.F. Kennedy V"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.860115,
+          41.108293
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03393001",
+        "stop_name": "Flacco-De Ferraris"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.861805,
+          41.110643
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03393002",
+        "stop_name": "Flacco-Zuccaro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.861855,
+          41.110723
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03393101",
+        "stop_name": "Flacco(Policlinico)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.860125,
+          41.108633
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03393102",
+        "stop_name": "Flacco-Storelli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.859505,
+          41.102803
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03411001",
+        "stop_name": "Pio XII (farmacia)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.859805,
+          41.105523
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03411002",
+        "stop_name": "Pio XII-Pansini"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.859785,
+          41.105583
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03411101",
+        "stop_name": "Oncologico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.859515,
+          41.103143
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03411102",
+        "stop_name": "Pio XII-Favia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.863405,
+          41.113173
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03471001",
+        "stop_name": "Salandra I"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8993,
+          41.1054
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05021001",
+        "stop_name": "Archimede-Caldarola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.900915,
+          41.104713
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05021002",
+        "stop_name": "Archimede-Appulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.903125,
+          41.103833
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05021003",
+        "stop_name": "Archimede, 19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.904495,
+          41.103223
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05021004",
+        "stop_name": "Archimede 43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.907935,
+          41.101913
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05021005",
+        "stop_name": "Archimede (Palaflorio)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.907775,
+          41.102003
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05021101",
+        "stop_name": "Palaflorio fronte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.904695,
+          41.103183
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05021102",
+        "stop_name": "Archimede 10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.903215,
+          41.103843
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05021104",
+        "stop_name": "Archimede 8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.900955,
+          41.104723
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05021105",
+        "stop_name": "Archimede-Appulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.899495,
+          41.105703
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05021106",
+        "stop_name": "Archimede-Caldarola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.899105,
+          41.106963
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05060002",
+        "stop_name": "Partigiani-Peucetia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.898835,
+          41.107093
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05060101",
+        "stop_name": "Assi Casa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.898325,
+          41.106653
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05063003",
+        "stop_name": "Caldarola 41/C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.898875,
+          41.106613
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05063102",
+        "stop_name": "Caldarola-Peucetia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.909985,
+          41.102313
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05063C00",
+        "stop_name": "C.S. Polivalente (A)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.906105,
+          41.105983
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05078001",
+        "stop_name": "Carabellese-Papalia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.906915,
+          41.107273
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05078002",
+        "stop_name": "Carabellese 10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.907565,
+          41.108233
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05078003",
+        "stop_name": "Carabellese-deLiguori"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.907575,
+          41.108313
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05078101",
+        "stop_name": "Carabellese-deLiguori"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.906945,
+          41.107363
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05078102",
+        "stop_name": "Eurospin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.906115,
+          41.106063
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05078103",
+        "stop_name": "Carabellese-Papalia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.895635,
+          41.108243
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05097001",
+        "stop_name": "Cavalieri V. Veneto I"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.895555,
+          41.108193
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05097101",
+        "stop_name": "Cavalieri V. Veneto II"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.909485,
+          41.108543
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05105001",
+        "stop_name": "Colella-de Liguori"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.909185,
+          41.108483
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05105101",
+        "stop_name": "Colella-Gentile"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.907245,
+          41.104553
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05144001",
+        "stop_name": "D'Avanzo I"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.909125,
+          41.103813
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05144002",
+        "stop_name": "D'Avanzo III"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.909225,
+          41.103813
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05144101",
+        "stop_name": "D'Avanzo II"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.906855,
+          41.104743
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05144102",
+        "stop_name": "D'Avanzo IV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9115,
+          41.108
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05273003",
+        "stop_name": "Gentile-Loiacono"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.913625,
+          41.107193
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05273004",
+        "stop_name": "Reg. Puglia fronte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.917435,
+          41.105683
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05273005",
+        "stop_name": "Gentile-de Felice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.920995,
+          41.104333
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05273006",
+        "stop_name": "Gentile-Quintavalle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.920935,
+          41.104383
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05273102",
+        "stop_name": "Gentile-Cannone"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.916855,
+          41.105963
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05273103",
+        "stop_name": "Gentile-Quasimodo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9117,
+          41.1079
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05273105",
+        "stop_name": "Gentile-Colella"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.913805,
+          41.107153
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05273109",
+        "stop_name": "Regione Puglia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.891235,
+          41.110973
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05342001",
+        "stop_name": "M.Grecia-Caldarola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.890985,
+          41.110903
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05342102",
+        "stop_name": "M. Grecia-Caldarola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.921515,
+          41.105253
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05410001",
+        "stop_name": "Palasciano I"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.921465,
+          41.105313
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05410101",
+        "stop_name": "Palasciano II"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.893425,
+          41.112603
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05432004",
+        "stop_name": "Peucetia-Daunia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.896145,
+          41.111443
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05432005",
+        "stop_name": "Peucetia-Salapia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.898535,
+          41.109763
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05432006",
+        "stop_name": "via Peucetia, A6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.898485,
+          41.110083
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05432101",
+        "stop_name": "Peucetia , A6 fronte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.895825,
+          41.111903
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05432102",
+        "stop_name": "Peucetia (poste)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.893575,
+          41.112773
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05432103",
+        "stop_name": "Peucetia-M.Grecia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.919295,
+          41.106063
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05440001",
+        "stop_name": "Quasimodo-Alpini"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.919245,
+          41.106053
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05440101",
+        "stop_name": "Quasimodo-Alpini"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.913005,
+          41.103633
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05500001",
+        "stop_name": "Suglia-Toscanini"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9161,
+          41.103
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05500002",
+        "stop_name": "Suglia(parco)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.912905,
+          41.103673
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05500003",
+        "stop_name": "Suglia-Toscanini"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.916115,
+          41.103083
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05500004",
+        "stop_name": "Suglia(parco)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.912745,
+          41.103773
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05500101",
+        "stop_name": "Suglia-Toscanini"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.912685,
+          41.103793
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05500102",
+        "stop_name": "Suglia-Toscanini"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.900185,
+          41.108033
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05508001",
+        "stop_name": "Peucetia (torrente)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9002,
+          41.1081
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05508101",
+        "stop_name": "Peucetia (torrente)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.911565,
+          41.102913
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05510001",
+        "stop_name": "Toscanini-Caldarola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.914005,
+          41.106493
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05510003",
+        "stop_name": "Toscanini-Gentile"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.913735,
+          41.106153
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05510101",
+        "stop_name": "Toscanini-Gentile"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.911435,
+          41.102773
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05510103",
+        "stop_name": "Toscanini, ang caldarola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.872205,
+          41.100573
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06235001",
+        "stop_name": "Einaudi-De Gasperi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.874275,
+          41.100623
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06235002",
+        "stop_name": "Einaudi (poste)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.876985,
+          41.100853
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06235003",
+        "stop_name": "Einaudi-Resistenza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.877025,
+          41.100893
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06235104",
+        "stop_name": "Einaudi-Resistenza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.872365,
+          41.100593
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06235105",
+        "stop_name": "Einaudi-De Gasperi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.879135,
+          41.103423
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06249008",
+        "stop_name": "Fanelli-Dorso"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8789,
+          41.1042
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06249101",
+        "stop_name": "Fanelli-Jacini"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.879525,
+          41.101853
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06249102",
+        "stop_name": "Fanelli (Vigna Laura)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.882375,
+          41.106163
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06402001",
+        "stop_name": "Ambasciatori"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.884455,
+          41.107063
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06402002",
+        "stop_name": "Omodeo-Amendola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8844,
+          41.1071
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06402101",
+        "stop_name": "Omodeo (Campus)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.882245,
+          41.106273
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06402102",
+        "stop_name": "Omodeo-Salvemini"
       }
     }
   ]

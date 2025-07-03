@@ -281,9 +281,205 @@
         ]
       },
       "properties": {
+        "type": "route",
         "route_id": "H",
         "route_short_name": "H",
         "shape_id": "+++++H+H010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.856635,
+          41.109853
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "POL00001",
+        "stop_name": "Polipark Policlinico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.858615,
+          41.110083
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "POL00002",
+        "stop_name": "Fermata 2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.859625,
+          41.110273
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "POL00003",
+        "stop_name": "Fermata 3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.860935,
+          41.110523
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "POL00004",
+        "stop_name": "Fermata 4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.861705,
+          41.111023
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "POL00005",
+        "stop_name": "Fermata 5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.861615,
+          41.111463
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "POL00006",
+        "stop_name": "Fermata 6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.860535,
+          41.111843
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "POL00007",
+        "stop_name": "Fermata 7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.861145,
+          41.112943
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "POL00008",
+        "stop_name": "Fermata 8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.860025,
+          41.113033
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "POL00009",
+        "stop_name": "Fermata 9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.858735,
+          41.112783
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "POL00010",
+        "stop_name": "Fermata 10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.857305,
+          41.112533
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "POL00011",
+        "stop_name": "Fermata 11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.857335,
+          41.111153
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "POL00012",
+        "stop_name": "Fermata 12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.857235,
+          41.110573
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "POL00013",
+        "stop_name": "Fermata 13"
       }
     }
   ]

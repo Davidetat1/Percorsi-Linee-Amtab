@@ -1057,9 +1057,250 @@
         ]
       },
       "properties": {
+        "type": "route",
         "route_id": "E",
         "route_short_name": "E",
         "shape_id": "+++++E++020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.861945,
+          41.116533
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03075004",
+        "stop_name": "Capruzzi-Albanese"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.864175,
+          41.116713
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03075102",
+        "stop_name": "Capruzzi-Ennio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.857805,
+          41.116273
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03101102",
+        "stop_name": "Conservatorio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.859275,
+          41.107413
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03124101",
+        "stop_name": "Cotugno-Flacco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.856825,
+          41.108533
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03124104",
+        "stop_name": "Polipark"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.862675,
+          41.116343
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03237101",
+        "stop_name": "Ennio-Capruzzi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.862115,
+          41.114803
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03237104",
+        "stop_name": "Ennio  (Chiesa)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.862075,
+          41.112773
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03237C00",
+        "stop_name": "Policlinico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.861855,
+          41.110723
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03393101",
+        "stop_name": "Flacco(Policlinico)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.860125,
+          41.108633
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03393102",
+        "stop_name": "Flacco-Storelli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.853135,
+          41.111413
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03417005",
+        "stop_name": "Pasteur-Chieco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.853045,
+          41.113553
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03417007",
+        "stop_name": "Pasteur-M. D'avola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.864725,
+          41.119203
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08441103",
+        "stop_name": "Q. Sella-Italia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.868125,
+          41.119783
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09126101",
+        "stop_name": "Crisanzio (Ateneo)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.866275,
+          41.118463
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09291001",
+        "stop_name": "Italia-De Rossi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8695,
+          41.1183
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09369C00",
+        "stop_name": "Bari Centrale (B)"
       }
     }
   ]

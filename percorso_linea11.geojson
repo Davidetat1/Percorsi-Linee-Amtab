@@ -1109,6 +1109,7 @@
         ]
       },
       "properties": {
+        "type": "route",
         "route_id": "11",
         "route_short_name": "11",
         "shape_id": "++++11++041"
@@ -2882,6 +2883,7 @@
         ]
       },
       "properties": {
+        "type": "route",
         "route_id": "11",
         "route_short_name": "11",
         "shape_id": "++++11++071"
@@ -4787,9 +4789,1195 @@
         ]
       },
       "properties": {
+        "type": "route",
         "route_id": "11",
         "route_short_name": "11",
         "shape_id": "++++11++122"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.866695,
+          41.116853
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03075001",
+        "stop_name": "Capruzzi(binari)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.866785,
+          41.116883
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03075101",
+        "stop_name": "Capruzzi(portici)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.865915,
+          41.090543
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03285001",
+        "stop_name": "Don Guanella fronte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.866355,
+          41.093323
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03285002",
+        "stop_name": "Petroni-Lucarelli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.867555,
+          41.096173
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03285003",
+        "stop_name": "Petroni(Osp.Mil)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.867435,
+          41.098603
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03285004",
+        "stop_name": "Petroni-C.Rotto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.867355,
+          41.100173
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03285005",
+        "stop_name": "Petroni-M.L.King"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.867205,
+          41.101583
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03285006",
+        "stop_name": "Petroni-Kennedy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.867145,
+          41.103823
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03285007",
+        "stop_name": "Petroni-San Michele"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.867695,
+          41.106193
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03285008",
+        "stop_name": "Carcere Minorile"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.867775,
+          41.107423
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03285009",
+        "stop_name": "Petroni-Giov.XXIII"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.867745,
+          41.108923
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03285010",
+        "stop_name": "Petroni-Piave"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8687,
+          41.1156
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03285012",
+        "stop_name": "Caserma Rossani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.868705,
+          41.115783
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03285101",
+        "stop_name": "Petroni-Capruzzi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.867765,
+          41.109533
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03285103",
+        "stop_name": "Petroni-Montegrappa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.867725,
+          41.107553
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03285104",
+        "stop_name": "Petroni-Giov. XXIII"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.867665,
+          41.106263
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03285105",
+        "stop_name": "Petroni(mercato)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.867095,
+          41.103813
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03285106",
+        "stop_name": "Petroni-Urbano VI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.867175,
+          41.101523
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03285107",
+        "stop_name": "Petroni-Kennedy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.867335,
+          41.100233
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03285108",
+        "stop_name": "Petroni-L.King"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.867435,
+          41.098343
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03285109",
+        "stop_name": "Petroni-C.Rotto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.867515,
+          41.096093
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03285110",
+        "stop_name": "Petroni(Osp. Mil)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.866635,
+          41.093983
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03285111",
+        "stop_name": "Petroni-Pende"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8658,
+          41.0904
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03285112",
+        "stop_name": "Petroni (chiesa)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.868135,
+          41.113323
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03314001",
+        "stop_name": "Lembo-Petroni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.868135,
+          41.113353
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03314101",
+        "stop_name": "Lembo-Petroni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.867475,
+          41.110483
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03420001",
+        "stop_name": "Pasubio-Petroni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.867415,
+          41.110513
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03420101",
+        "stop_name": "Pasubio-Petroni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.864665,
+          41.111113
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03484001",
+        "stop_name": "S. l'Africano 284"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.864515,
+          41.111263
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03484101",
+        "stop_name": "S.  l'Africano 207"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.855735,
+          41.067773
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04093001",
+        "stop_name": "Cascia 14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.855635,
+          41.070203
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04093002",
+        "stop_name": "Cascia-Roccaporena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.863395,
+          41.043413
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04104101",
+        "stop_name": "SP70-Vitt. Veneto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.847445,
+          41.041323
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04132001",
+        "stop_name": "Crispi-Valenzano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.847485,
+          41.041363
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04132101",
+        "stop_name": "Crispi(scuola)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8477,
+          41.0426
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04132C00",
+        "stop_name": "Crispi (Loseto)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.854645,
+          41.075413
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04159001",
+        "stop_name": "De Filippo I"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.857155,
+          41.075523
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04159002",
+        "stop_name": "De Filippo II"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8594,
+          41.0682
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04209001",
+        "stop_name": "Monastero(scuola)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.857105,
+          41.073393
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04219002",
+        "stop_name": "Di Cillo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.863455,
+          41.076943
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04220001",
+        "stop_name": "Di Venere (ospedale)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.858105,
+          41.076783
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04232001",
+        "stop_name": "Donadonisi-Quaranta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.854905,
+          41.074233
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04253101",
+        "stop_name": "Contrada Ferrigni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.865225,
+          41.085583
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04285001",
+        "stop_name": "Petroni 132/H"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.865385,
+          41.087493
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04285002",
+        "stop_name": "Petroni (clinica)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.865595,
+          41.088783
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04285101",
+        "stop_name": "Petroni-Dalla Chiesa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.865225,
+          41.085933
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04285102",
+        "stop_name": "Petroni 129A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.863515,
+          41.084153
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04285103",
+        "stop_name": "Petroni-Ranieri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.855435,
+          41.071503
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04303001",
+        "stop_name": "Lama Del Duca 12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.852755,
+          41.041183
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04320101",
+        "stop_name": "SP45-Giacobelli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.851515,
+          41.042673
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04362101",
+        "stop_name": "Minervini 21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8507,
+          41.0464
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04367001",
+        "stop_name": "Nuzzi-Zaccaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.850235,
+          41.043963
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04426001",
+        "stop_name": "Perrone (chiesa)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.858065,
+          41.069083
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04451001",
+        "stop_name": "Roccaporena-Scoglio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.858155,
+          41.069113
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04451101",
+        "stop_name": "Roccaporana-Scoglio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.865915,
+          41.065713
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04483101",
+        "stop_name": "S. Angelo-Settembrini"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8621,
+          41.0674
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04488101",
+        "stop_name": "S. Rita-Liuzzi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.855425,
+          41.051493
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04513001",
+        "stop_name": "Liuzzi (Enel)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.859515,
+          41.059223
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04513002",
+        "stop_name": "Liuzzi 111 fronte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.861305,
+          41.064803
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04513003",
+        "stop_name": "Liuzzi 62"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.862585,
+          41.066613
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04513004",
+        "stop_name": "Liuzzi-San Gaspare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.863755,
+          41.081523
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04513008",
+        "stop_name": "Liuzzi (CC)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.862355,
+          41.078933
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04513010",
+        "stop_name": "Liuzzi 18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.863425,
+          41.081003
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04513101",
+        "stop_name": "Liuzzi-Livatino"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.862225,
+          41.078733
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04513109",
+        "stop_name": "Liuzzi 135"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.864675,
+          41.076243
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04540101",
+        "stop_name": "Vaccarella (ospedale)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.863585,
+          41.071623
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04540102",
+        "stop_name": "Vaccarella-Marchitelli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.865625,
+          41.067903
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04540103",
+        "stop_name": "De Candia(INPS)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.866175,
+          41.063123
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04550101",
+        "stop_name": "Veneto 29/C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8666,
+          41.0612
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04550102",
+        "stop_name": "Veneto 67"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.867125,
+          41.058613
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04550103",
+        "stop_name": "Veneto 75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.867425,
+          41.056983
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04550104",
+        "stop_name": "Veneto 77"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.866665,
+          41.054343
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04550105",
+        "stop_name": "Veneto 83"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8657,
+          41.0641
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04559101",
+        "stop_name": "Vittorio Emanuele 41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.852585,
+          41.045913
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04562101",
+        "stop_name": "Zaccaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.864725,
+          41.119203
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08441103",
+        "stop_name": "Q. Sella-Italia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.868125,
+          41.119783
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09126101",
+        "stop_name": "Crisanzio (Ateneo)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.866275,
+          41.118463
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09291001",
+        "stop_name": "Italia-De Rossi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.869755,
+          41.118463
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09369C01",
+        "stop_name": "Bari Centrale(A)"
       }
     }
   ]

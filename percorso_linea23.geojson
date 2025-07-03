@@ -1661,9 +1661,640 @@
         ]
       },
       "properties": {
+        "type": "route",
         "route_id": "23",
         "route_short_name": "23",
         "shape_id": "++++2323010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8993,
+          41.1054
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05021001",
+        "stop_name": "Archimede-Caldarola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.900915,
+          41.104713
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05021002",
+        "stop_name": "Archimede-Appulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.903125,
+          41.103833
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05021003",
+        "stop_name": "Archimede, 19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.904495,
+          41.103223
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05021004",
+        "stop_name": "Archimede 43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.907935,
+          41.101913
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05021005",
+        "stop_name": "Archimede (Palaflorio)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.907775,
+          41.102003
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05021101",
+        "stop_name": "Palaflorio fronte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.904695,
+          41.103183
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05021102",
+        "stop_name": "Archimede 10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.903215,
+          41.103843
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05021104",
+        "stop_name": "Archimede 8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.900955,
+          41.104723
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05021105",
+        "stop_name": "Archimede-Appulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.899495,
+          41.105703
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05021106",
+        "stop_name": "Archimede-Caldarola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.898325,
+          41.106653
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05063003",
+        "stop_name": "Caldarola 41/C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.893055,
+          41.108853
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05063007",
+        "stop_name": "Caldarola (chiesa)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.895755,
+          41.107703
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05063008",
+        "stop_name": "Giardino Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.898875,
+          41.106613
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05063102",
+        "stop_name": "Caldarola-Peucetia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.893135,
+          41.108983
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05063105",
+        "stop_name": "Caldarola (chiesa)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.895565,
+          41.108023
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05063108",
+        "stop_name": "Mercato coperto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.909985,
+          41.102313
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05063C00",
+        "stop_name": "C.S. Polivalente (A)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.913625,
+          41.107193
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05273004",
+        "stop_name": "Reg. Puglia fronte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.910705,
+          41.105573
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05318001",
+        "stop_name": "Loiacono-Pascazio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.909215,
+          41.103333
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05318003",
+        "stop_name": "Loiacono-Caldarola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.891235,
+          41.110973
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05342001",
+        "stop_name": "M.Grecia-Caldarola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.890985,
+          41.110903
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05342102",
+        "stop_name": "M. Grecia-Caldarola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.886425,
+          41.116823
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05349101",
+        "stop_name": "Masaniello-Oberdan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.881715,
+          41.117683
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05399002",
+        "stop_name": "Oberdan-Caldarola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.884495,
+          41.117493
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05399003",
+        "stop_name": "Oberdan-Bersaglieri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.887005,
+          41.117143
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05399101",
+        "stop_name": "Bari Marconi FS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.884125,
+          41.117563
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05399102",
+        "stop_name": "Oberdan-Schiralli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.880725,
+          41.117703
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05399103",
+        "stop_name": "Oberdan FSE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.887905,
+          41.114903
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05432001",
+        "stop_name": "Peucetia-Aristosseno"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.889765,
+          41.114163
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05432002",
+        "stop_name": "Peucetia (chiesa)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.891745,
+          41.113353
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05432003",
+        "stop_name": "Peucetia-M. Grecia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.891205,
+          41.113733
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05432104",
+        "stop_name": "Peucetia-Archita"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.889845,
+          41.114263
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05432105",
+        "stop_name": "Peucetia-Pitagora"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.887745,
+          41.115083
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05432106",
+        "stop_name": "Peucetia-Apulia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.913735,
+          41.106153
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05510101",
+        "stop_name": "Toscanini-Gentile"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.912445,
+          41.104273
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "05510102",
+        "stop_name": "Toscanini-Suglia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.876785,
+          41.117473
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "07075001",
+        "stop_name": "Capruzzi-Lattanzio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.877295,
+          41.117533
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "07075101",
+        "stop_name": "Capruzzi-Mola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.873925,
+          41.119643
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "07324101",
+        "stop_name": "L. di Savoia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.871785,
+          41.119263
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09357001",
+        "stop_name": "Melo-Caduti via Fani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.871715,
+          41.119743
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09357101",
+        "stop_name": "Melo-Petroni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.869755,
+          41.118463
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09369C01",
+        "stop_name": "Bari Centrale(A)"
       }
     }
   ]

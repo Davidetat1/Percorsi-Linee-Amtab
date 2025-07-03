@@ -1661,6 +1661,7 @@
         ]
       },
       "properties": {
+        "type": "route",
         "route_id": "03",
         "route_short_name": "03",
         "shape_id": "++++03++102"
@@ -3138,9 +3139,925 @@
         ]
       },
       "properties": {
+        "type": "route",
         "route_id": "03",
         "route_short_name": "03",
         "shape_id": "++++03+3511"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.841285,
+          41.118032
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "02024007",
+        "stop_name": "Buozzi (ANAS)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.840885,
+          41.117912
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "02024101",
+        "stop_name": "Buozzi (ANAS)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.783375,
+          41.119092
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "02072101",
+        "stop_name": "Ospedale PS(S. Paolo)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.780505,
+          41.117962
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "02072C00",
+        "stop_name": "Ospedale(S.Paolo)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.788025,
+          41.121672
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "02210001",
+        "stop_name": "Regioni(Don Milani)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.793455,
+          41.123032
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "02210002",
+        "stop_name": "Regioni-Calitri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7989,
+          41.1231
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "02210003",
+        "stop_name": "Regioni-Europa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.797605,
+          41.123172
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "02210101",
+        "stop_name": "Regioni-Miglionico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.793375,
+          41.123172
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "02210102",
+        "stop_name": "Regioni-Fiore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.787905,
+          41.121732
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "02210103",
+        "stop_name": "Regioni-Cascella"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.795475,
+          41.123082
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "02210105",
+        "stop_name": "Regioni-Giaquinto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.801905,
+          41.122922
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "02240005",
+        "stop_name": "Europa-Sicilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.804245,
+          41.123222
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "02240006",
+        "stop_name": "Europa-Mirizzi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.811655,
+          41.123622
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "02240007",
+        "stop_name": "Europa-Tesoro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.826845,
+          41.124112
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "02240008",
+        "stop_name": "Europa(Lamasinata)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.829325,
+          41.124192
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "02240009",
+        "stop_name": "Europa-Torre dei cani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.834615,
+          41.122592
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "02240010",
+        "stop_name": "Europa-Ascianghi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.839585,
+          41.118342
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "02240011",
+        "stop_name": "Europa-Buozzi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.839705,
+          41.118212
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "02240101",
+        "stop_name": "Europa-Buozzi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.834585,
+          41.122662
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "02240102",
+        "stop_name": "Europa-Ascianghi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.829105,
+          41.124222
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "02240103",
+        "stop_name": "Europa-Sopramarzo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.826245,
+          41.124242
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "02240104",
+        "stop_name": "Europa(Lamasinata)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.811755,
+          41.123672
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "02240105",
+        "stop_name": "Europa-Tesoro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.804275,
+          41.123262
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "02240106",
+        "stop_name": "Europa(ex Pirelli)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.801815,
+          41.122952
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "02240107",
+        "stop_name": "Giudice di pace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.795995,
+          41.119752
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "02309002",
+        "stop_name": "Lazio-Puglia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.795335,
+          41.122852
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "02363001",
+        "stop_name": "Molise-Regioni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.796425,
+          41.121362
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "02363102",
+        "stop_name": "Molise(scuola)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.796965,
+          41.121372
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "02437101",
+        "stop_name": "Puglia-Molise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.798195,
+          41.120672
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "02453001",
+        "stop_name": "Romita-Sicilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.795755,
+          41.119932
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "02453101",
+        "stop_name": "Romita(Chiesa)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.787895,
+          41.118402
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "02543001",
+        "stop_name": "Val d'Aosta-Piemonte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.789575,
+          41.121042
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "02549001",
+        "stop_name": "Veneto-Verona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.789525,
+          41.121002
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "02549101",
+        "stop_name": "Veneto-Lombardia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.791095,
+          41.119562
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "02549102",
+        "stop_name": "Veneto-Alessandria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.781005,
+          41.117552
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03072102",
+        "stop_name": "Ospedale(S.Paolo)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.792485,
+          41.119412
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03309001",
+        "stop_name": "Lazio-Toscana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.792995,
+          41.117572
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03436003",
+        "stop_name": "Piemonte I"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.793025,
+          41.117622
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03436102",
+        "stop_name": "Piemonte II"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.849605,
+          41.121133
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08129001",
+        "stop_name": "Crispi-Pagano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.853245,
+          41.122513
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08129002",
+        "stop_name": "Crispi-De Bernardis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.856175,
+          41.123623
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08129003",
+        "stop_name": "Crispi(tribunale)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.858705,
+          41.124553
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08129004",
+        "stop_name": "Crispi-Ravanas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.860525,
+          41.125253
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08129005",
+        "stop_name": "Crispi-Garibaldi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.859985,
+          41.125063
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08129101",
+        "stop_name": "Crispi-Trevisani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.858105,
+          41.124363
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08129102",
+        "stop_name": "Crispi-Ravanas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.856095,
+          41.123633
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08129103",
+        "stop_name": "Crispi (tribunale)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.851085,
+          41.121703
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08129104",
+        "stop_name": "Crispi-B. Regina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.848775,
+          41.120823
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08129105",
+        "stop_name": "Crispi (ponte)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.862945,
+          41.125433
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08267001",
+        "stop_name": "Garibaldi-V.Emanuele"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.863825,
+          41.124973
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08435001",
+        "stop_name": "Garibaldi-Visconti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.864205,
+          41.124043
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08441101",
+        "stop_name": "Q.Sella-Calefati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.864505,
+          41.121513
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08441102",
+        "stop_name": "Q. Sella-Dante"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.864655,
+          41.119853
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08441104",
+        "stop_name": "Q.Sella-Crisanzio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.869005,
+          41.121113
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09015001",
+        "stop_name": "Ateneo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.868805,
+          41.123703
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09015002",
+        "stop_name": "da Bari-Calefati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.866275,
+          41.118463
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09291001",
+        "stop_name": "Italia-De Rossi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8695,
+          41.1183
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09369C00",
+        "stop_name": "Bari Centrale (B)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.867515,
+          41.125213
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09435102",
+        "stop_name": "Teatro Piccinni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.783395,
+          41.119052
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "10072001",
+        "stop_name": "Ospedale PS(S.Paolo)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.789715,
+          41.118262
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "10436002",
+        "stop_name": "Piemonte-Sicilia"
       }
     }
   ]

@@ -1093,9 +1093,460 @@
         ]
       },
       "properties": {
+        "type": "route",
         "route_id": "35",
         "route_short_name": "35",
         "shape_id": "++++35++010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.870315,
+          41.117093
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01075102",
+        "stop_name": "Capruzzi-Sorrentino"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.866785,
+          41.116883
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03075101",
+        "stop_name": "Capruzzi(portici)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.864175,
+          41.116713
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03075102",
+        "stop_name": "Capruzzi-Ennio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.862675,
+          41.116343
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03237101",
+        "stop_name": "Ennio-Capruzzi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.862115,
+          41.114803
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03237104",
+        "stop_name": "Ennio  (Chiesa)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.862075,
+          41.112773
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03237C00",
+        "stop_name": "Policlinico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.868215,
+          41.107063
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03279002",
+        "stop_name": "Giov.XXIII-Petroni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.867765,
+          41.109533
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03285103",
+        "stop_name": "Petroni-Montegrappa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.867475,
+          41.110483
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03420001",
+        "stop_name": "Pasubio-Petroni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.864665,
+          41.111113
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "03484001",
+        "stop_name": "S. l'Africano 284"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.871695,
+          41.095763
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06006001",
+        "stop_name": "Alberotanza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.871645,
+          41.105933
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06162101",
+        "stop_name": "De Gasperi (Carcere)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.871645,
+          41.103963
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06162102",
+        "stop_name": "De Gasperi, 345"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.871625,
+          41.102133
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06162103",
+        "stop_name": "De Gasperi-Morea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.871365,
+          41.100103
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06162104",
+        "stop_name": "De Gasperi-Lonigro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.871055,
+          41.098063
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06162105",
+        "stop_name": "De Gasperi-C. Rotto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.870875,
+          41.096693
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06162106",
+        "stop_name": "De Gasperi-La Sorsa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8774,
+          41.1155
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06186001",
+        "stop_name": "Dei Mille I"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.876175,
+          41.117123
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06186002",
+        "stop_name": "Dei Mille II"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.878445,
+          41.114303
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06186003",
+        "stop_name": "Dei Mille III"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.875825,
+          41.102883
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06195002",
+        "stop_name": "Resistenza(parco)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.875,
+          41.1058
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06195003",
+        "stop_name": "Resistenza (park)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.876335,
+          41.107203
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06223001",
+        "stop_name": "Di Vittorio I"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.874275,
+          41.100623
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06235002",
+        "stop_name": "Einaudi (poste)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.873585,
+          41.096853
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06244001",
+        "stop_name": "Falcone Borsellino I"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.873635,
+          41.099553
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06244002",
+        "stop_name": "Falcone Borsellino II"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.878025,
+          41.112683
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06439001",
+        "stop_name": "Postiglione-Dei Mille"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.877355,
+          41.108233
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06447001",
+        "stop_name": "ReDavid (Poliba)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.876745,
+          41.110123
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06447002",
+        "stop_name": "Re David (Politecnico)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.876415,
+          41.111913
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06447003",
+        "stop_name": "Re David-Postiglione"
       }
     }
   ]

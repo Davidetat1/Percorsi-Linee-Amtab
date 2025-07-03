@@ -1877,6 +1877,7 @@
         ]
       },
       "properties": {
+        "type": "route",
         "route_id": "04",
         "route_short_name": "04",
         "shape_id": "++++04+4012"
@@ -3574,6 +3575,7 @@
         ]
       },
       "properties": {
+        "type": "route",
         "route_id": "04",
         "route_short_name": "04",
         "shape_id": "++++04+4022"
@@ -4407,6 +4409,7 @@
         ]
       },
       "properties": {
+        "type": "route",
         "route_id": "04",
         "route_short_name": "04",
         "shape_id": "++++04+4511"
@@ -5904,9 +5907,1165 @@
         ]
       },
       "properties": {
+        "type": "route",
         "route_id": "04",
         "route_short_name": "04",
         "shape_id": "++++04+4521"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.870225,
+          41.056103
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04102001",
+        "stop_name": "Ceglie(cimitero)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8735,
+          41.0543
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04102002",
+        "stop_name": "Ceglie 55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8733,
+          41.0544
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04102101",
+        "stop_name": "Ceglie (AMIU)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8788,
+          41.0517
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04102C00",
+        "stop_name": "Agronomico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.869275,
+          41.081393
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04162001",
+        "stop_name": "De Gasperi 368"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8691,
+          41.0836
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04162002",
+        "stop_name": "De Gasperi 342"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.868955,
+          41.085863
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04162003",
+        "stop_name": "De Gasperi 334"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.869735,
+          41.089853
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04162101",
+        "stop_name": "De Gasperi 449/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.869385,
+          41.088173
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04162102",
+        "stop_name": "De Gasperi 463"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.868995,
+          41.086143
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04162103",
+        "stop_name": "De Gasperi 479"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.868975,
+          41.084033
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04162104",
+        "stop_name": "De Gasperi 503"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.869235,
+          41.081313
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04162105",
+        "stop_name": "De Gasperi 515"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.870245,
+          41.074673
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04171001",
+        "stop_name": "De Marinis 9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.870305,
+          41.076623
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04171002",
+        "stop_name": "De Marinis-Ponte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.870155,
+          41.079143
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04171003",
+        "stop_name": "De Marinis 153"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.870075,
+          41.079213
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04171101",
+        "stop_name": "De Marinis 100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.870275,
+          41.076913
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04171102",
+        "stop_name": "De Marinis-Padova"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.869405,
+          41.067353
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04456001",
+        "stop_name": "Roppo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8686,
+          41.066
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04456101",
+        "stop_name": "Umberto I 9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.870945,
+          41.073523
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04525001",
+        "stop_name": "Umberto 77"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.869935,
+          41.074433
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04525101",
+        "stop_name": "Umberto 16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.870395,
+          41.073433
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04525102",
+        "stop_name": "Umberto 64"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8699,
+          41.0578
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04528001",
+        "stop_name": "Umberto I 282"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.869715,
+          41.058953
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04528002",
+        "stop_name": "Umberto I 266D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.869385,
+          41.061073
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04528003",
+        "stop_name": "Umberto I 250A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.869085,
+          41.062823
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04528004",
+        "stop_name": "Umberto I 184"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.868855,
+          41.064323
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04528005",
+        "stop_name": "Umberto I 88-90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.868825,
+          41.064243
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04528101",
+        "stop_name": "Umberto I 75-77"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.869,
+          41.0628
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04528102",
+        "stop_name": "Umberto I 183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.869325,
+          41.061163
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04528103",
+        "stop_name": "Umberto I 261"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.869635,
+          41.059223
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04528104",
+        "stop_name": "Umberto I 264B fronte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.869835,
+          41.057793
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04528105",
+        "stop_name": "Umberto I 276 fronte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.870145,
+          41.068553
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04558001",
+        "stop_name": "Veneto 176"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.871575,
+          41.071013
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04558002",
+        "stop_name": "Veneto (Ist. Diaz)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.871565,
+          41.071083
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04558101",
+        "stop_name": "Veneto 63/B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8697,
+          41.068
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "04558102",
+        "stop_name": "Veneto (scuola)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.872335,
+          41.115203
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06138102",
+        "stop_name": "B.Croce-Ciaia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.872145,
+          41.112433
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06138103",
+        "stop_name": "B. Croce-Bottalico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.872,
+          41.1108
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06138104",
+        "stop_name": "B.Croce-Molfalcone"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.871925,
+          41.109343
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06138105",
+        "stop_name": "Chiesa Russa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.871785,
+          41.107763
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06138106",
+        "stop_name": "B. Croce-Sabotino"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.869375,
+          41.087703
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06162001",
+        "stop_name": "De Gasperi, 326/b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.869785,
+          41.089933
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06162002",
+        "stop_name": "De Gasperi, 320/B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.870095,
+          41.091753
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06162003",
+        "stop_name": "De Gasperi (scuola)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8705,
+          41.0943
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06162004",
+        "stop_name": "De Gasperi, 312"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.870895,
+          41.096573
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06162005",
+        "stop_name": "De Gasperi-La Sorsa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.871065,
+          41.097863
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06162006",
+        "stop_name": "De Gasperi, 296"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.871365,
+          41.099953
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06162007",
+        "stop_name": "De Gasperi, 278"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.871655,
+          41.101993
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06162008",
+        "stop_name": "De Gasperi, 274"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.871695,
+          41.103783
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06162009",
+        "stop_name": "De Gasperi, 270"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.871655,
+          41.105383
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06162010",
+        "stop_name": "De Gasperi, 248"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.871645,
+          41.105933
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06162101",
+        "stop_name": "De Gasperi (Carcere)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.871645,
+          41.103963
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06162102",
+        "stop_name": "De Gasperi, 345"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.871625,
+          41.102133
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06162103",
+        "stop_name": "De Gasperi-Morea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.871365,
+          41.100103
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06162104",
+        "stop_name": "De Gasperi-Lonigro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.871055,
+          41.098063
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06162105",
+        "stop_name": "De Gasperi-C. Rotto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.870875,
+          41.096693
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06162106",
+        "stop_name": "De Gasperi-La Sorsa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8706,
+          41.0946
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06162107",
+        "stop_name": "De Gasperi, 421"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8702,
+          41.0925
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06162108",
+        "stop_name": "De Gasperi, 429/a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.875825,
+          41.102883
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06195002",
+        "stop_name": "Resistenza(parco)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.875,
+          41.1058
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06195003",
+        "stop_name": "Resistenza (park)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.874225,
+          41.108023
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06211001",
+        "stop_name": "Repubblica I"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.873955,
+          41.110063
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06211002",
+        "stop_name": "Repubblica II"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.873715,
+          41.112063
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06211003",
+        "stop_name": "d' Italia-Galiani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.872205,
+          41.100573
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06235001",
+        "stop_name": "Einaudi-De Gasperi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.874275,
+          41.100623
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06235002",
+        "stop_name": "Einaudi (poste)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.872545,
+          41.106973
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06499001",
+        "stop_name": "Sturzo-De Gasperi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.873415,
+          41.114603
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06531001",
+        "stop_name": "d' Italia-Ciaia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.873315,
+          41.116103
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06531002",
+        "stop_name": "d' Italia-Pisanelli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.872455,
+          41.124743
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "07099C01",
+        "stop_name": "Camera Commercio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.873825,
+          41.121103
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "07165001",
+        "stop_name": "De Giosa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8725,
+          41.1211
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09099102",
+        "stop_name": "Cavour-Beatillo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.872695,
+          41.119473
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09099103",
+        "stop_name": "Cavour-P.Petroni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.872235,
+          41.123813
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09099104",
+        "stop_name": "Cavour-Putignani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.871785,
+          41.119263
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09357001",
+        "stop_name": "Melo-Caduti via Fani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.871715,
+          41.119743
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09357101",
+        "stop_name": "Melo-Petroni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.869755,
+          41.118463
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09369C01",
+        "stop_name": "Bari Centrale(A)"
       }
     }
   ]

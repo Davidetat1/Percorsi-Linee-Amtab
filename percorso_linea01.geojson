@@ -1649,6 +1649,7 @@
         ]
       },
       "properties": {
+        "type": "route",
         "route_id": "01",
         "route_short_name": "01",
         "shape_id": "++++01+1031"
@@ -3770,9 +3771,1315 @@
         ]
       },
       "properties": {
+        "type": "route",
         "route_id": "01",
         "route_short_name": "01",
         "shape_id": "++++01+1512"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.761275,
+          41.154432
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01069001",
+        "stop_name": "Capitaneo-Ranieri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.761895,
+          41.156072
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01069002",
+        "stop_name": "Capitaneo-Speranza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.762265,
+          41.158362
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01069003",
+        "stop_name": "Capitaneo-Nazionale"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.734895,
+          41.168762
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01135001",
+        "stop_name": "Colombo, 298"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.738885,
+          41.168632
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01135002",
+        "stop_name": "Colombo-Pansini"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.744025,
+          41.167402
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01135003",
+        "stop_name": "Colombo-Malta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.748765,
+          41.163962
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01135101",
+        "stop_name": "Colombo-Marconi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.746605,
+          41.166932
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01135102",
+        "stop_name": "Colombo-Savona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.745095,
+          41.167462
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01135103",
+        "stop_name": "Colombo-Dalmazia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.738825,
+          41.168672
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01135104",
+        "stop_name": "Colombo-Pansini"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.734295,
+          41.169132
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01135105",
+        "stop_name": "Colombo-Harris"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.732365,
+          41.169222
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01135C00",
+        "stop_name": "Colombo(Lido)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.768705,
+          41.155442
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01142002",
+        "stop_name": "Duca D'Aosta-Capitano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7656,
+          41.1534
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01226001",
+        "stop_name": "Diaz-Renna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.767615,
+          41.153112
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01226002",
+        "stop_name": "Diaz-Duca D'Aosta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.748145,
+          41.162882
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01378006",
+        "stop_name": "Napoli, 114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.752655,
+          41.161682
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01378007",
+        "stop_name": "Napoli, 14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.755925,
+          41.160792
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01378008",
+        "stop_name": "Napoli, 6/b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.758125,
+          41.160212
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01378009",
+        "stop_name": "Napoli, 6/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.792295,
+          41.145952
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01378010",
+        "stop_name": "Napoli C dir.Bari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.799305,
+          41.142922
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01378011",
+        "stop_name": "Napoli B dir. Bari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.803345,
+          41.140072
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01378016",
+        "stop_name": "Napoli A dir. Bari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.799465,
+          41.143672
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01378101",
+        "stop_name": "Napoli B dir. Foggia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.792285,
+          41.146462
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01378102",
+        "stop_name": "Napoli C dir. Foggia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.758225,
+          41.160212
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01378103",
+        "stop_name": "Napoli, 11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.755705,
+          41.160902
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01378104",
+        "stop_name": "Napoli, 19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.752515,
+          41.161752
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01378105",
+        "stop_name": "Napoli, 39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.763695,
+          41.158092
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01384001",
+        "stop_name": "Nazionale (ASL)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.769715,
+          41.155282
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01384002",
+        "stop_name": "Nazionale (Park Hotel)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.773765,
+          41.153142
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01384003",
+        "stop_name": "Nazionale (ponte) I"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.776525,
+          41.151862
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01384004",
+        "stop_name": "Nazionale (IPSIA) II"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.773745,
+          41.153152
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01384006",
+        "stop_name": "Nazionale (Ponte) II"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7766,
+          41.1518
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01384007",
+        "stop_name": "Nazionale (IPSIA) II"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.775965,
+          41.152132
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01384101",
+        "stop_name": "Nazionale (IPSIA) I"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.773865,
+          41.153132
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01384102",
+        "stop_name": "Nazionale (ponte) I"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.770745,
+          41.154772
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01384103",
+        "stop_name": "Nazionale (Miglia )"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.776005,
+          41.152122
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01384106",
+        "stop_name": "Nazionale (IPSIA) I"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.773895,
+          41.153112
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01384107",
+        "stop_name": "Nazionale(ponte) II"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.764345,
+          41.153712
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01502101",
+        "stop_name": "Ten. Ranieri-Priolo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7475,
+          41.1661
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01522101",
+        "stop_name": "Udine-lung. Colombo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.746685,
+          41.163632
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01522102",
+        "stop_name": "Udine-Napoli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.751445,
+          41.162952
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01529001",
+        "stop_name": "Umberto I-Livorno"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7659,
+          41.1561
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01562101",
+        "stop_name": "V.Veneto-Sabotino"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.765195,
+          41.154542
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01562102",
+        "stop_name": "V.Veneto-Palasciano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.765915,
+          41.156262
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01562103",
+        "stop_name": "V.Veneto-Sabotino"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.765165,
+          41.154482
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "01562104",
+        "stop_name": "V.Veneto-Palasciano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.851645,
+          41.126293
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08039001",
+        "stop_name": "Brigata Regina-Lopez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.851615,
+          41.126303
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08039101",
+        "stop_name": "Brigata Regina-Lopez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.858705,
+          41.124553
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08129004",
+        "stop_name": "Crispi-Ravanas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.860525,
+          41.125253
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08129005",
+        "stop_name": "Crispi-Garibaldi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.859985,
+          41.125063
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08129101",
+        "stop_name": "Crispi-Trevisani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.858105,
+          41.124363
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08129102",
+        "stop_name": "Crispi-Ravanas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.856255,
+          41.124033
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08156001",
+        "stop_name": "De Cristoforis-Crispi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.856165,
+          41.125153
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08156002",
+        "stop_name": "De Cristoforis-Mazzini"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.856245,
+          41.123783
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08156101",
+        "stop_name": "De Cristoforis-Crispi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.862945,
+          41.125433
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08267001",
+        "stop_name": "Garibaldi-V.Emanuele"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.854295,
+          41.125223
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08354001",
+        "stop_name": "Mazzini 136/D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.855815,
+          41.125273
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08354002",
+        "stop_name": "Bianchi Dottula"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.853835,
+          41.125253
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08354101",
+        "stop_name": "Mazzini-Bottego"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.811775,
+          41.135622
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08378001",
+        "stop_name": "Napoli(uscita 4)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.819355,
+          41.133782
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08378002",
+        "stop_name": "Napoli (autoclub)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.823025,
+          41.132682
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08378003",
+        "stop_name": "Napoli (distributore)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.832765,
+          41.129722
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08378004",
+        "stop_name": "Napoli (casa riposo)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.835565,
+          41.128872
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08378005",
+        "stop_name": "Napoli (C. Briscese)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.838765,
+          41.127882
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08378006",
+        "stop_name": "Napoli (Caserma)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.842955,
+          41.127542
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08378007",
+        "stop_name": "Genio Militare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.845825,
+          41.127402
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08378008",
+        "stop_name": "Napoli 316"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.848455,
+          41.127292
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08378009",
+        "stop_name": "Napoli-Paoli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8502,
+          41.1272
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08378101",
+        "stop_name": "Napoli-Canudo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8483,
+          41.1273
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08378102",
+        "stop_name": "Napoli-Paoli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.845735,
+          41.127442
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08378103",
+        "stop_name": "Napoli-Monte Lungo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.843285,
+          41.127552
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08378104",
+        "stop_name": "Napoli (Genio)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.838605,
+          41.127982
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08378105",
+        "stop_name": "Napoli-Di Maratona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.835135,
+          41.129052
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08378106",
+        "stop_name": "Napoli-Ligonzo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8324,
+          41.1299
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08378107",
+        "stop_name": "Napoli (casa riposo)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.823475,
+          41.132682
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08378108",
+        "stop_name": "Napoli-Corrado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.819735,
+          41.133792
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08378109",
+        "stop_name": "Napoli-Costa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.863825,
+          41.124973
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "08435001",
+        "stop_name": "Garibaldi-Visconti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.869005,
+          41.121113
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09015001",
+        "stop_name": "Ateneo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.868805,
+          41.123703
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09015002",
+        "stop_name": "da Bari-Calefati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.872105,
+          41.125033
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09099101",
+        "stop_name": "Cavour-Piccinni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8725,
+          41.1211
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09099102",
+        "stop_name": "Cavour-Beatillo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.871715,
+          41.119743
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09357101",
+        "stop_name": "Melo-Petroni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8695,
+          41.1183
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09369C00",
+        "stop_name": "Bari Centrale (B)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.868155,
+          41.125223
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09435001",
+        "stop_name": "Piccinni-Roberto Bari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.871565,
+          41.125433
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09435002",
+        "stop_name": "Piccinni-Cavour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.867515,
+          41.125213
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09435102",
+        "stop_name": "Teatro Piccinni"
       }
     }
   ]

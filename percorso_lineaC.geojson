@@ -825,9 +825,235 @@
         ]
       },
       "properties": {
+        "type": "route",
         "route_id": "C",
         "route_short_name": "C",
         "shape_id": "+++++C++010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8751,
+          41.1054
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06195C01",
+        "stop_name": "P&R 2 Giugno"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.874225,
+          41.108023
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06211001",
+        "stop_name": "Repubblica I"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.873955,
+          41.110063
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06211002",
+        "stop_name": "Repubblica II"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.873715,
+          41.112063
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06211003",
+        "stop_name": "d' Italia-Galiani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.873555,
+          41.112283
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06211102",
+        "stop_name": "Repubblica-Volta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.873745,
+          41.110673
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06211103",
+        "stop_name": "Repubblica-Fiore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.873975,
+          41.108443
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06211104",
+        "stop_name": "Repubblica-Armenise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.873415,
+          41.114603
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06531001",
+        "stop_name": "d' Italia-Ciaia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.873315,
+          41.116103
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06531002",
+        "stop_name": "d' Italia-Pisanelli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.873275,
+          41.114723
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "06531101",
+        "stop_name": "Unita d'Italia (CC)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.872455,
+          41.124743
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "07099C01",
+        "stop_name": "Camera Commercio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.873825,
+          41.121103
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "07165001",
+        "stop_name": "De Giosa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8725,
+          41.1211
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09099102",
+        "stop_name": "Cavour-Beatillo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.872695,
+          41.119473
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09099103",
+        "stop_name": "Cavour-P.Petroni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.872235,
+          41.123813
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09099104",
+        "stop_name": "Cavour-Putignani"
       }
     }
   ]

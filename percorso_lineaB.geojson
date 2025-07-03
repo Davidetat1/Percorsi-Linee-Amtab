@@ -1225,9 +1225,355 @@
         ]
       },
       "properties": {
+        "type": "route",
         "route_id": "B",
         "route_short_name": "B",
         "shape_id": "+++++B+B020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.895835,
+          41.115703
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "07023101",
+        "stop_name": "Ballestrero I"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.897825,
+          41.115263
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "07023102",
+        "stop_name": "Ballestrero II"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.904065,
+          41.115703
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "07023103",
+        "stop_name": "Ballestrero III"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.876385,
+          41.123733
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "07222001",
+        "stop_name": "Crollalanza-Bruno"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.878665,
+          41.122603
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "07222002",
+        "stop_name": "Crollalanza-Diaz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.873965,
+          41.125073
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "07222003",
+        "stop_name": "Crollalanza-Eroi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.878565,
+          41.122673
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "07222101",
+        "stop_name": "Crollalanza-Diaz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8766,
+          41.1236
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "07222102",
+        "stop_name": "Crollalanza-Bruno"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.874,
+          41.125
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "07222103",
+        "stop_name": "Crollalanza-Eroi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.881965,
+          41.121563
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "07381001",
+        "stop_name": "N.Sauro (Provincia)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.885115,
+          41.120543
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "07381002",
+        "stop_name": "N.Sauro (INPS)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.887495,
+          41.119793
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "07381003",
+        "stop_name": "N.Sauro (Forestale)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.888265,
+          41.119593
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "07381101",
+        "stop_name": "Forestale fronte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.885025,
+          41.120623
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "07381102",
+        "stop_name": "INPS fronte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.882725,
+          41.121343
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "07381103",
+        "stop_name": "Reg. Puglia fronte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.893675,
+          41.117163
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "07511001",
+        "stop_name": "Perotti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8924,
+          41.1175
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "07511101",
+        "stop_name": "Pane&Pomodoro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.898635,
+          41.116613
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "07511C00",
+        "stop_name": "P&R Pane&Pomodoro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.866085,
+          41.126673
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09351C01",
+        "stop_name": "Massari (A)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.868855,
+          41.125993
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09556001",
+        "stop_name": "V.Emanuele-Sparano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.870735,
+          41.126113
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09556002",
+        "stop_name": "V.Emanuele-Melo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.870875,
+          41.126143
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09556101",
+        "stop_name": "V.Emanuele (giardino)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.868865,
+          41.126023
+        ]
+      },
+      "properties": {
+        "type": "stop",
+        "stop_id": "09556102",
+        "stop_name": "Palazzo Economia"
       }
     }
   ]
